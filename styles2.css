@@ -1,0 +1,82 @@
+
+
+
+
+body {
+  padding: 0;
+  margin: 0;
+  background: url('fondo5.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.naveg {
+  display: flex;
+  justify-content: space-evenly;
+  background: #fff;
+}
+
+.logo1 {
+  width: 40px;
+}
+.atr {
+  width: 20px;
+}
+.atras {
+  color: black;
+  text-decoration: none;
+}
+.form {
+  display: block;
+  background-image: url(fondo5.jpg);
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  margin: 0;
+  text-align: start;
+  width: 300px;
+  height: 400px;
+  box-shadow: 0px 0px 100px rgba(255,255,255,0.65);
+}
+h2 {
+  font-size: 30px;
+  font-family: serif;
+}
+label {
+  font-family: serif;
+  color: rgba(255,255,255,0.8);
+}
+input {
+  background: rgba(255,255,255,0.5);
+  line-height: 24px;
+  border: 1px solid white;
+  border-radius: 20px;
+}
+.botones {
+  display: flex;
+  justify-content: space-around;
+}
+#but {
+  height: 20px;
+  width: 130px;
+  border: none;
+  border-radius: 20px;
+  background: rgb(0,63,146);
+  color: white;
+}
+#reset {
+  height: 20px;
+  width: 130px;
+  border: none;
+  border-radius: 20px;
+  background: rgb(0,63,146);
+  color: white;
+}
