@@ -80,9 +80,15 @@ img {
   text-align: center;
 }
 
+.thor1 {
+  margin-left: 5px;
+ } 
 
 
 .spy1,.spy2,.spy3 {
   margin-right: 10px;
   text-align: center;
 }
+.spy1 {
+  margin-left: 5px;
+ } 
