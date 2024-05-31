@@ -85,3 +85,9 @@ h3 {
   text-decoration: none;
   color: black;
 }
+
+.estrella {
+  width: 50px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
